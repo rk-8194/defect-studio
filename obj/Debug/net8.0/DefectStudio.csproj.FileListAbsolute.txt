@@ -1,0 +1,14 @@
+C:\Users\vp8194\source\repos\DefectStudio\obj\Debug\net8.0\DefectStudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vp8194\source\repos\DefectStudio\obj\Debug\net8.0\DefectStudio.AssemblyInfoInputs.cache
+C:\Users\vp8194\source\repos\DefectStudio\obj\Debug\net8.0\DefectStudio.AssemblyInfo.cs
+C:\Users\vp8194\source\repos\DefectStudio\obj\Debug\net8.0\DefectStudio.csproj.CoreCompileInputs.cache
+C:\Users\vp8194\source\repos\DefectStudio\bin\Debug\net8.0\DefectStudio.exe
+C:\Users\vp8194\source\repos\DefectStudio\bin\Debug\net8.0\DefectStudio.deps.json
+C:\Users\vp8194\source\repos\DefectStudio\bin\Debug\net8.0\DefectStudio.runtimeconfig.json
+C:\Users\vp8194\source\repos\DefectStudio\bin\Debug\net8.0\DefectStudio.dll
+C:\Users\vp8194\source\repos\DefectStudio\bin\Debug\net8.0\DefectStudio.pdb
+C:\Users\vp8194\source\repos\DefectStudio\obj\Debug\net8.0\DefectStudio.dll
+C:\Users\vp8194\source\repos\DefectStudio\obj\Debug\net8.0\refint\DefectStudio.dll
+C:\Users\vp8194\source\repos\DefectStudio\obj\Debug\net8.0\DefectStudio.pdb
+C:\Users\vp8194\source\repos\DefectStudio\obj\Debug\net8.0\DefectStudio.genruntimeconfig.cache
+C:\Users\vp8194\source\repos\DefectStudio\obj\Debug\net8.0\ref\DefectStudio.dll

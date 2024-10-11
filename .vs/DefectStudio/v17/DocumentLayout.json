@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vp8194\\source\\repos\\DefectStudio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A45D6CB7-BDC9-4871-BEA5-E64C3AFE926C}|DefectStudio.csproj|c:\\users\\vp8194\\source\\repos\\defectstudio\\commanddictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A45D6CB7-BDC9-4871-BEA5-E64C3AFE926C}|DefectStudio.csproj|solutionrelative:commanddictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A45D6CB7-BDC9-4871-BEA5-E64C3AFE926C}|DefectStudio.csproj|c:\\users\\vp8194\\source\\repos\\defectstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A45D6CB7-BDC9-4871-BEA5-E64C3AFE926C}|DefectStudio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A45D6CB7-BDC9-4871-BEA5-E64C3AFE926C}|DefectStudio.csproj|c:\\users\\vp8194\\source\\repos\\defectstudio\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A45D6CB7-BDC9-4871-BEA5-E64C3AFE926C}|DefectStudio.csproj|solutionrelative:filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A45D6CB7-BDC9-4871-BEA5-E64C3AFE926C}|DefectStudio.csproj|c:\\users\\vp8194\\source\\repos\\defectstudio\\debugmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A45D6CB7-BDC9-4871-BEA5-E64C3AFE926C}|DefectStudio.csproj|solutionrelative:debugmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A45D6CB7-BDC9-4871-BEA5-E64C3AFE926C}|DefectStudio.csproj|c:\\users\\vp8194\\source\\repos\\defectstudio\\programsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A45D6CB7-BDC9-4871-BEA5-E64C3AFE926C}|DefectStudio.csproj|solutionrelative:programsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileReader.cs",
+              "DocumentMoniker": "C:\\Users\\vp8194\\source\\repos\\DefectStudio\\FileReader.cs",
+              "RelativeDocumentMoniker": "FileReader.cs",
+              "ToolTip": "C:\\Users\\vp8194\\source\\repos\\DefectStudio\\FileReader.cs",
+              "RelativeToolTip": "FileReader.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:42:48.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommandDictionary.cs",
+              "DocumentMoniker": "C:\\Users\\vp8194\\source\\repos\\DefectStudio\\CommandDictionary.cs",
+              "RelativeDocumentMoniker": "CommandDictionary.cs",
+              "ToolTip": "C:\\Users\\vp8194\\source\\repos\\DefectStudio\\CommandDictionary.cs",
+              "RelativeToolTip": "CommandDictionary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:25:08.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vp8194\\source\\repos\\DefectStudio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vp8194\\source\\repos\\DefectStudio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:49:48.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DebugMessage.cs",
+              "DocumentMoniker": "C:\\Users\\vp8194\\source\\repos\\DefectStudio\\DebugMessage.cs",
+              "RelativeDocumentMoniker": "DebugMessage.cs",
+              "ToolTip": "C:\\Users\\vp8194\\source\\repos\\DefectStudio\\DebugMessage.cs",
+              "RelativeToolTip": "DebugMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:44:20.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProgramSettings.cs",
+              "DocumentMoniker": "C:\\Users\\vp8194\\source\\repos\\DefectStudio\\ProgramSettings.cs",
+              "RelativeDocumentMoniker": "ProgramSettings.cs",
+              "ToolTip": "C:\\Users\\vp8194\\source\\repos\\DefectStudio\\ProgramSettings.cs",
+              "RelativeToolTip": "ProgramSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:41:50.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
